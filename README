@@ -1,0 +1,8 @@
+VOEvent -- A simple Python VO Event class
+
+
+Transforms an XML VO Event file or object into a Python class with
+most data easily accessible as class attributes.
+
+
+Additionally, contains a simple XML to JSON converter.

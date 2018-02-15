@@ -1,0 +1,9 @@
+# Emacs backup files
+*~
+
+# Python compiled files
+*.pyc
+
+# Ignore test data files
+*.xml
+*.json
